@@ -15,6 +15,7 @@
 |说明|领域|地址|
 |--|--|--|
 |阮一峰周刊|技术，科技，资讯|https://github.com/ruanyf/weekly|
+|JS周刊|前端|https://weekly.docschina.org/javascript/|
 |FEX百度|前端|http://fex.baidu.com/|
 |阿里数据前端|前端|https://github.com/dt-fe/weekly|
 |zenany|前端，技术|https://github.com/zenany/weekly|
